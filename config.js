@@ -7,10 +7,10 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919006765023']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
+küresel . Sahip   = [ '9'  0 ]5
+küresel . Sahip    Numarası    = [ ' 9 '    45 ] 990545
+küresel . sahip     etiketi     = [ ' 9 '     3 ]        9    0   545  903 9693    9939693
+küresel . BotAdı      =     6   3   "çiku"
 global.packname = "chiku-bot"
 global.author = "By: Ayush"
 global.OwnerName = "Ayush"
